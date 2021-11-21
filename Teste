@@ -13,3 +13,13 @@ https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u
 https://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="" group-title="",SBT SERRA DOURADO
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",TESTE DRIVE 
+https://www.googleapis.com/drive/v3/files/1gfnOeK8kkjQl7TeRy17I2V2bXZ7sSXpG?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",MARSHA E URSO
+https://www.googleapis.com/drive/v3/files/1gi6-7jLm_NC24AvCMRDm0pLxxRK64hfP?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",MATINHOS
+https://www.googleapis.com/drive/v3/files/1hNG3X7lkt4aYg_R_wAxTRjxEaLUcn3EU?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",CAÇÃO QUEKO
+https://www.googleapis.com/drive/v3/files/1hfuMd3bTTyFajct6xmF5ByHV_OGZIHlJ?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="",FILHA NA COMPRA
+https://www.googleapis.com/drive/v3/files/1hUZTpjAYYzTCLQqZ4B2ZtgPK_fJxBZFx?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
